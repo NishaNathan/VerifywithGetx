@@ -25,7 +25,7 @@ class _MessageAlertScreenState extends State<MessageAlertScreen> {
     return Scaffold(
       appBar: AppBar(
           title: const Text(
-            "Message Alert",
+            "Message Alert Screen",
             style: TextStyle(color: primaryColor, fontWeight: FontWeight.w800),
           ),
           centerTitle: true,
